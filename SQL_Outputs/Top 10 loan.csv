@@ -1,0 +1,11 @@
+age,Clean_person_emp_length,deafult_flag,income,loan_amnt,loan_grade,loan_int_rate,loan_intent,loan_status,pct_income,person_cred_hist_length,person_home_ownership,age_bucket,income_band,emp_length_bucket,cred_hist_bucket,int_rate_bucket,pct_income_bucket,debt_to_income,loan_grade_score
+34,5,0,113900,35000,E,18.64,MEDICAL,1,0.26,10,MORTGAGE,25-34,30k+,4-7yr,7-10yr,16-19.99%,20-39%,0.26,5
+34,17,0,120000,35000,B,10.59,VENTURE,0,0.29,6,RENT,25-34,30k+,12+yr,3-6yr,8-11.99%,20-39%,0.29,2
+34,3,1,325550,35000,D,16.77,MEDICAL,1,0.09,6,MORTGAGE,25-34,30k+,1-3yr,3-6yr,16-19.99%,<20%,0.09,4
+34,3,1,77000,35000,D,18.25,DEBTCONSOLIDATION,1,0.45,10,RENT,25-34,30k+,1-3yr,7-10yr,16-19.99%,40-59%,0.45,4
+34,4,0,156000,35000,A,11.09,EDUCATION,0,0.22,5,RENT,25-34,30k+,4-7yr,3-6yr,8-11.99%,20-39%,0.22,1
+35,12,0,139000,35000,B,12.69,DEBTCONSOLIDATION,0,0.25,6,MORTGAGE,35-44,30k+,8-12yr,3-6yr,12-15.99%,20-39%,0.25,2
+33,17,1,102000,35000,E,11.09,VENTURE,0,0.34,8,MORTGAGE,25-34,30k+,12+yr,7-10yr,8-11.99%,20-39%,0.34,5
+35,10,0,350000,35000,D,17.49,VENTURE,0,0.1,7,MORTGAGE,35-44,30k+,8-12yr,7-10yr,16-19.99%,<20%,0.1,4
+35,4,0,144000,35000,A,11.09,EDUCATION,0,0.24,9,MORTGAGE,35-44,30k+,4-7yr,7-10yr,8-11.99%,20-39%,0.24,1
+35,5,0,79750,35000,B,11.99,DEBTCONSOLIDATION,0,0.44,5,MORTGAGE,35-44,30k+,4-7yr,3-6yr,8-11.99%,40-59%,0.44,2
