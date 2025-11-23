@@ -144,6 +144,7 @@ A master SQL view was created to combine all engineered features into a single a
 This ensured consistent segmentation across all KPIs and risk queries.
 
 **Key Insights & Results**
+
 Summary of Findings
 Area	KPI / Segment	Observation
 Portfolio Health	Default Rate	21.74% of loans defaulted
@@ -156,7 +157,7 @@ Employment Length	<1 year	24.67% default
 Employment Length	8+ years	18.25% default
 Credit History	<3 years	23.36% default
 Credit History	7–10 years	20.31% default
-Loan Intent	Medical / Education / Debt-Consolidation	Highest default rates
+Loan Intent	Medical / Education / Debt Consolidation	Highest default rates
 Interest Rate Bucket	>20%	88.06% default
 Interest Rate Bucket	<8%	9.17% default
 Affordability (PCT Income)	>60%	74.07% default
