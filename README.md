@@ -166,11 +166,16 @@ This ensured consistent segmentation across all KPIs and risk queries.
 **Project Structure**
 
 ├── Dataset/
+
 │   ├── credit_risk_dataset.csv
+
 │   └── Cleaned_Credit_Risk_dataset.csv
+
 │
 ├── SQL/
+
 │   ├── Demographic KPIs.sql
+
 │   ├── Interest Rate KPIs.sql
 │   ├── Loan Features Table.sql
 │   ├── Portfolio KPIs.sql
