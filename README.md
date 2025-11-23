@@ -1,6 +1,6 @@
 **Credit Risk Analysis (SQL Project)**
 
-Author: Shah The Analyst
+Author: Shah Imtiaz
 
 Tools Used: MySQL Server, MySQL Workbench, Power BI (for data cleaning)
 
@@ -163,52 +163,16 @@ This ensured consistent segmentation across all KPIs and risk queries.
 | Affordability (PCT Income) | >60% | 74.07% default |
 | Affordability (PCT Income) | <20% | 33.32% default |
 
-**Project Structure**
+**Files in Repository**
 
-├── Dataset/
+This repository contains the following files:
 
-│   ├── credit_risk_dataset.csv
+README.md — Project documentation
 
-│   └── Cleaned_Credit_Risk_dataset.csv
+Dataset — Contains the original Kaggle credit risk dataset and the fully cleaned version used for SQL analysis.
 
-│
-├── SQL/
+SQL — Includes all MySQL scripts used for feature engineering, KPI calculations, segmentation queries, and portfolio analysis.
 
-│   ├── Demographic KPIs.sql
-
-│   ├── Interest Rate KPIs.sql
-│   ├── Loan Features Table.sql
-│   ├── Portfolio KPIs.sql
-│   ├── Summary KPIs.sql
-│   └── Top 10 Loans.sql
-│
-├── SQL_Outputs/
-│   ├── Default rate by Age Bucket.csv
-│   ├── Default rate by Credit History Bucket.csv
-│   ├── Default rate by Employment Rate Bucket.csv
-│   ├── Default rate by Income Band.csv
-│   ├── Default rate by Interest Rate Bucket.csv
-│   ├── Default rate by Loan Grade.csv
-│   ├── Default rate by Loan Intent.csv
-│   ├── Default rate by pct Income Bucket.csv
-│   ├── Overall Default Rate.csv
-│   ├── Summary KPI.csv
-│   └── Top 10 loan.csv
-│
-└── README.md
+SQL_Outputs — Stores the output CSV files generated from SQL queries—these show all risk metrics, segment defaults, and key portfolio insights
 
 
-**Personal Reflection**
-
-This project helped me connect data cleaning, feature engineering, and SQL analytics into one cohesive workflow.
-I learned how:
-
-Small cleaning decisions (handling invalid ages, missing interest rates)
-directly influence final insights
-
-SQL-derived business metrics can clearly explain credit behavior
-
-Borrower risk is measurable through structured segmentation
-
-This was more than just writing SQL queries—
-it was understanding why borrowers default, and how data can help predict and prevent risk.
